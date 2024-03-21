@@ -7,7 +7,7 @@
 ## 说明
 列表工具。
 
-<a href="https://github.com/ShipOfOcean/xy_pydev.git" target="_blank">Github地址</a>
+<a href="https://github.com/ShipOfOcean/xy_list.git" target="_blank">Github地址</a>
 
 ## 安装
 
